@@ -152,4 +152,4 @@ Sensor data alert: Soil Moisture: 25, Light Intensity: 500, Temperature: 26
 2. **Port Configuration**: `The SERIAL_PORT` may vary depending on your system, so verify it carefully.
 3. **Adjust Sensor Thresholds**: Modify condition values (e.g., `Soil Moisture < 30`) to match your sensors and environment.
 
-4. ---
+---
